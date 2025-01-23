@@ -49,7 +49,7 @@ This ensures simple management of the wallet state during runtime.
 # Step 1: Clone the Repository
 1. Open your terminal or command prompt.
 2. Run the following command:
-   git clone https://github.com/clnalinea>/digitalwalletsystem.git
+   git clone https://github.com/clnalinea/digitalwalletsystem.git
    
 # Step 2: Navigate to the Directory
 cd digitalwalletsystem
